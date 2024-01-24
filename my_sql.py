@@ -3,8 +3,8 @@ import csv
 
 # Connect to MySQL database
 connection = mysql.connector.connect(
-    host="127.0.0.1",
-    port=3306,
+    host="1xx.0.0.1",
+    port=3x0x,
     user="root",
     password="220664",
     database="new_schema"
